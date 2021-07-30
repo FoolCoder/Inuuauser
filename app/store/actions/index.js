@@ -1,0 +1,1 @@
+export {setdetails} from './details'
