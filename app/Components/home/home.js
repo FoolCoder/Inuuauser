@@ -37,7 +37,6 @@ import vendorFavourite from '../../assets/vendorFavourite.png'
 
 import events from '../../assets/events.png'
 import sign from '../../assets/imageB.jpeg'
-const apikey = 'AIzaSyA-_ESKOszOV6bSzAqb6frFWMZqnLeQj1U'
 export default class fp extends Component {
   constructor() {
     // this.map = React.createRef()
